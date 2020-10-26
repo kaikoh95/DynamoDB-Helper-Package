@@ -1,2 +1,3 @@
 # DynamoDB-Helper-Package
-Tired of having to replicate tables and items across different projects? It's time to use this package to create DynamoDB table, indexes and items.
+*NOTE*
+Please do not download this as it is still a WIP and I'm learning as I move along, thanks.
